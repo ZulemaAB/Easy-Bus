@@ -1,3 +1,14 @@
+# RETO UX : NUEVA EXPERIENCIA EN EMPRESAS DE BUSES  
+
+Si quieres viajar en fiestas o feriados y no quieres gastar demás en tus pasajes, utiliza EASYBUS una App que te ayuda a ahorrar, comprar y reservar..  
+
+![imageneasybus](https://user-images.githubusercontent.com/31807340/36388620-791de5d8-156a-11e8-916f-8fb93edc4efb.png)
+
+## Desarrollado para
+[Laboratoria](http://laboratoria.la)
+
+> Track: Common Core.  
+Unidad: Primer proyecto Ux.  
 # **RETO UX : NUEVA EXPERIENCIA EN EMPRESAS DE BUSES**  
 
 >Track: Common Core.  
@@ -12,9 +23,9 @@ Nos ha contactado Catalina una emprendedora viajera con una idea de negocio. Dur
 
 # ***DESARROLLO DEL PROYECTO***
 
-#### Día 1 
+#### Día 1
 
-### **PLANIFICACION** 
+### **PLANIFICACION**
 
 ![Hoja de planificacion](assets/images/planificacion.JPG)  
 #### Día 1 :
@@ -64,17 +75,17 @@ Nos ha contactado Catalina una emprendedora viajera con una idea de negocio. Dur
 - **Testeo**
      - Hacer un content prototype.  
      - Testearlo en pareja con compañeras de otro squad.
-     
+
 #### Día 7:
 - **Exposicion final**
      - Testeo del prototype a diferentes personas.
-     
+
 #### Día 8:
 - **Exposicion final**
      - Testeo del la ultima versión del prototype.
      - Presentación final del prototype.  
-     
-# 
+
+#
 
 #### Día 2
 
@@ -138,7 +149,7 @@ Se encuesto a 39 personas de entre 20 a 52 años para averiguar sus necesidades 
 
 ![Encuestas](assets/images/encuesta2.jpg)
 
-#### Día 3 
+#### Día 3
 ## **DIAGRAMA DE AFINIDAD**
 
 Se desarrolló el análisis de las encuestas realizadas para poder recopilar toda la información y los problemas encontrados.
@@ -157,7 +168,7 @@ Por ejemplo :
 
 ![Diagrama](assets/images/diagrama-3.jpg)
 
-#### Día 4 
+#### Día 4
 ## **PRESENTACIÓN DEL PROBLEMA**
 
 Temas encontrados en el diagrama de afinidad.
@@ -176,7 +187,7 @@ Después de analizar  las entrevistas presenciales y las encuestas on-line y hab
 
 ![Diagrama](assets/images/diagrama-4.jpg)
 
-#### Día 5 
+#### Día 5
 ## **USER PERSON, PROBLEM STATEMENT, HMW, WHAT IF y STORYBOARD**
 
 Con la información obtenida en las entrevistas, ahora tenemos que definir a nuestro USER PERSONA.
@@ -207,10 +218,10 @@ Con la información obtenida en las entrevistas, ahora tenemos que definir a nue
 ![storyboard](assets/images/storyboard1.jpg)
 ![storyboard2](assets/images/storyboard2.jpg)
 
-#### Día 6 
+#### Día 6
 ## **PROTOTYPING CONTENT**
 
-Se realizó  un primer content prototype, en el cual recibimos feedback de otro squads, y nos ayudo a: 
+Se realizó  un primer content prototype, en el cual recibimos feedback de otro squads, y nos ayudo a:
 
 - Analizar  que contenido era necesario ponerle.
 - Hacer un mejor content prototype.
@@ -337,7 +348,7 @@ Estas son las empresas que te llevan a tu destino, recuerda que la disponibilida
 Diversos prototipos, realizados para mejorar el flujo de la aplicación.
 ![prototipo](assets/images/prototipos.jpeg)
 
-La primera versión 
+La primera versión
 
 ![prototipo](assets/images/primeraversion.jpg)
 
@@ -359,3 +370,16 @@ Flujo en caso decida reservar:
 Link de la presentación final
 
 https://drive.google.com/file/d/1gDOwBtsRr9rSs0PK8-26sArjU-IS6jA8/view
+
+
+### PROTOTIPO FINAL EN MARVEL- FLUJO:
+
+Tras diversos testeos de prototipos en papel, se determinó la creación que refleje con alta fidelidad la aplicación .
+
+Gracias a herramientas como Marvel generan realismo y mejor desarrollo del flujo al interactuar con la aplicación de EasyBus.
+
+  - Enlace :
+
+     https://marvelapp.com/bj3b0ij/screen/38653374
+
+![imageneasybus](https://user-images.githubusercontent.com/31807340/36388620-791de5d8-156a-11e8-916f-8fb93edc4efb.png)
