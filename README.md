@@ -1,4 +1,4 @@
-# RETO UX : NUEVA EXPERIENCIA EN EMPRESAS DE BUSES  
+# EASY BUS  
 
 Si quieres viajar en fiestas o feriados y no quieres gastar demás en tus pasajes, utiliza EASYBUS una App que te ayuda a ahorrar, comprar y reservar..  
 
@@ -9,7 +9,7 @@ Si quieres viajar en fiestas o feriados y no quieres gastar demás en tus pasaje
 
 > Track: Common Core.  
 Unidad: Primer proyecto Ux.  
-# **RETO UX : NUEVA EXPERIENCIA EN EMPRESAS DE BUSES**  
+## **RETO UX : NUEVA EXPERIENCIA EN EMPRESAS DE BUSES**  
 
 >Track: Common Core.  
 Unidad: Primer proyecto Ux.  
@@ -21,7 +21,7 @@ Nos ha contactado Catalina una emprendedora viajera con una idea de negocio. Dur
 
 → **¿Cómo hacer para crear un producto que mejore la experiencia en empresas de buses?**  
 
-# ***DESARROLLO DEL PROYECTO***
+## ***DESARROLLO DEL PROYECTO***
 
 #### Día 1
 
@@ -85,7 +85,7 @@ Nos ha contactado Catalina una emprendedora viajera con una idea de negocio. Dur
      - Testeo del la ultima versión del prototype.
      - Presentación final del prototype.  
 
-#
+
 
 #### Día 2
 
