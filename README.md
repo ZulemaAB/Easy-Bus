@@ -1,6 +1,6 @@
 # EASY BUS  
 
-Si quieres viajar en fiestas o feriados y no quieres gastar demás en tus pasajes, utiliza EASYBUS una App que te ayuda a ahorrar, comprar y reservar..  
+Easy Bus es una aplicación que permite a los usuarios disponer de pasajes de buses, promociones y calendario de festividades.Disfruta de las toda las actividades que posee el Perú en feriados y no gastar demás en tus pasajes. 
 
 ![imageneasybus](https://user-images.githubusercontent.com/31807340/36388620-791de5d8-156a-11e8-916f-8fb93edc4efb.png)
 
