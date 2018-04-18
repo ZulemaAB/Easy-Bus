@@ -225,8 +225,6 @@ Se realizó  un primer content prototype, en el cual recibimos feedback de otro 
 
 ![prototipo](assets/images/testeoprototipo.jpeg)
 
-##
-
 #### Content prototype final
 
 #### EASY BUS
