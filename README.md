@@ -7,12 +7,8 @@ Easy Bus es una aplicación que permite a los usuarios disponer de pasajes de bu
 ## Desarrollado para
 [Laboratoria](http://laboratoria.la)
 
-> Track: Common Core.  
-Unidad: Primer proyecto Ux.  
-## **RETO UX : NUEVA EXPERIENCIA EN EMPRESAS DE BUSES**  
-
->Track: Common Core.  
-Unidad: Primer proyecto Ux.  
+  
+## **RETO UX : NUEVA EXPERIENCIA EN EMPRESAS DE BUSES**   
 
 ### **Planteamiento del problema**  
 Nos ha contactado Catalina una emprendedora viajera con una idea de negocio. Durante sus últimas vacaciones Catalina estuvo viajando por todo latinoamérica. Durante estos viajes Catalina tuvo que tomar muchos buses de todo tipo para llegar a ver los paisajes más lindos del continente. Durante sus viajes Catalina se dio cuenta que existen aún muchas oportunidades para mejorar la experiencia de todos los usuarios de este tipo de transporte: horarios, embarques, desembarques, compra de tickets en los terminales, compra de tickets online, cancelaciones, cambios de pasajes, etc. Adicionalmente, Catalina se dio cuenta que todas las plataformas de venta de tickets de bus tienen cosas por mejorar en Chile, Perú y México.  
